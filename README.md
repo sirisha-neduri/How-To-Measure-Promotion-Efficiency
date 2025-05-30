@@ -41,16 +41,6 @@ Retailers often invest heavily in promotions but lack a consistent analytical me
 
 ---
 
-## Core Metrics & Formulas
-
-- **Promo Uplift (%)** = \((\text{Promo Sales} - \text{Baseline Sales}) / \text{Baseline Sales} \times 100\)
-- **Discount (%)** = \((1 - \text{Promo Price} / \text{Baseline Price}) \times 100\)
-- **Promo Efficiency Index** = \(\text{Uplift (%)}/\text{Discount (%) }\)
-- **Basket Size** = Total Value of `check_id` items during promo vs regular
-- **Halo / Cannibalization Effect** = Change in sales of non-promoted SKUs in the same category
-
----
-
 ## Requirements
 
 - Python 3.8+
