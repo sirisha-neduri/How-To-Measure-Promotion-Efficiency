@@ -25,7 +25,7 @@ Retailers often invest heavily in promotions but lack a consistent analytical me
 - `notebooks/`: Jupyter Notebooks for baseline, uplift, and basket analysis
 - `scripts/`: Python files modularizing the logic
 - `data/`: Sample data files (`merged_data.csv`)
-- `promo_efficiency_app/`: Streamlit-based dashboard (optional)
+- `promo_efficiency_calculator/`: Streamlit-based dashboard (optional)
 - `README.md`: Documentation
 
 ---
