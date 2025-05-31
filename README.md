@@ -30,6 +30,14 @@ Retailers often invest heavily in promotions but lack a consistent analytical me
 
 ---
 
+## Data Disclamier
+
+The dataset used for this project is confidential and cannot be shared publicly.  
+
+This repository contains the complete project code for academic demonstration and analysis, excluding the data.  
+
+---
+
 ## Key Features
 
 - Detects promo periods using price drop detection.
